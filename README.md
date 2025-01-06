@@ -28,3 +28,5 @@ The program has no menus or buttons. To play, use these keys:
 * **P**: pause/unpause the game.
 * **C**: ends the current game.
 * **Q**: exits the program.
+
+![sample screenshot](./tetris.png)
